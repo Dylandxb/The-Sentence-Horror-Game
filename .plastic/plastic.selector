@@ -1,0 +1,4 @@
+repository "Horror Game@WeLoveOpenGL@cloud"
+  path "/"
+    br "/main"
+    co "/main"
